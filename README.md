@@ -16,7 +16,7 @@ This project was developed using the following technologies:
 
 - [React](https://pt-br.reactjs.org/)
 - [Vite](https://vitejs.dev/)
-- [Javascript](https://js.org/)
+- [Typescript](https://www.typescriptlang.org/)
 
 
 ```bash
